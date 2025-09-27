@@ -16,17 +16,7 @@ Regras
 - O placar é atualizado automaticamente.
 
 Como executar
-- Abra `index.html` no seu navegador.
-- Ou sirva a pasta localmente (ex.: usando Python) e abra no navegador:
-
-```cmd
-python -m http.server 8000
-```
-
-Abra http://localhost:8000 e clique em `index.html`.
-
-Sugestões
-- Você pode adicionar som, teclas alternativas (teclado numérico), ou um botão para zerar o placar.
+- https://cyborg7njs.github.io/Jogo-de-Reflexo/
 
 Autor
-- Projeto por você — modifique à vontade.
+- Projeto por Victor Sudré 
